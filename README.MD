@@ -1,4 +1,4 @@
-# shell scripting 
+ # shell scripting 
 
 hi welcome git repos.
 
@@ -9,7 +9,7 @@ new changes are updated
 its very usefull to store all the code into repos
 
 repo means repository exist in git hub files.
-
+hi its time to change over VI editor
 
 new row
 
