@@ -14,3 +14,5 @@ hi its time to change over VI editor
 new row
 git is conecpts uner this we have multiple process are there like git hub,bit bucket
 repo files
+
+hi we want to add details
